@@ -1,0 +1,5 @@
+Name: Seohyun Choi
+StuID: 169181187
+The work I've done for the OOP244 (C++ Programming) course at Seneca under the Computer Programming & Analysis (CPA) program
+
+The biggest difference between the previous workshop and this workshop is that we used the friend function in this workshop. Friend class has access to Private and Protected members of other classes declared Friend. In certain circumstances, private restrictions have been placed to prevent access to the class, which, if necessary, is the Friend class and function that is used to make it accessible from that class or function. The usage is to specify in a class or function using the Friend keyword. Actually, I tried to complete this workshop without using this function. But my friend let me know how to use this function, and I could finish the workshop without difficulty. But the problem was, in Milestone. Milestone had a different feature from the workshop. Previously, the professor provided me with a header file, but this milestone had to be done from the beginning, and I felt hopeless to do it . I wish I had more time, but for now I'll try my best.

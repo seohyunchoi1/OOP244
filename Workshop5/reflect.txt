@@ -1,0 +1,9 @@
+Name: Seohyun Choi
+StuID: 169181187
+The work I've done for the OOP244 (C++ Programming) course at Seneca under the Computer Programming & Analysis (CPA) program
+
+First of all, when I write a reflection on this workshop, I cannot leave out the story of stringstream, which made the biggest difference from part 1 of this workshop. stringstream is useful when extracting the necessary information from a given string. More details can be found in the sstream library window on Microsoft's official website.
+
+In fact, this workshop was able to finish fairly quickly. However, during the workshop part 2, I went back to my homeland, Korea, and got an additional two days extended by the professor. The two days were enough time to study the function of the sstream, and I was able to carry out this workshop without much difficulty by adding a little code in part 1.
+
+The most difficult part was operator overloading. But I think operator overloading is one of the cool features of C++, given that special meaning can be given to operators when using user-defined classes. Of course, it was difficult when I first studied, but after seeing it a few times, I could easily understand it.
