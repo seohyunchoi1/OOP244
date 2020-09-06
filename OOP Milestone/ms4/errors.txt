@@ -1,0 +1,6 @@
+Vehicle.cpp:246:6: error: redefinition of ‘int sdds::Vehicle::getParkingSpot()’
+  int Vehicle::getParkingSpot() {
+      ^
+Vehicle.cpp:80:6: error: ‘int sdds::Vehicle::getParkingSpot()’ previously defined here
+  int Vehicle::getParkingSpot() {
+      ^

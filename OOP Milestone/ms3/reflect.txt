@@ -1,0 +1,6 @@
+Name: Seohyun Choi
+StuID: 169181187
+The work I've done for the OOP244 (C++ Programming) course at Seneca under the Computer Programming & Analysis (CPA) program
+
+Due to my circumstances, I have not been able to sit in front of the computer in recent days. Therefore, I was not able to carry out this workshop successfully, and I put in my milestones a little late. It was purely my responsibility to fail to score, but I couldn't help being sad. 
+This milestone was carried out with the feeling of filling in the empty files of Milestone 1 that I had last performed. All the contents to go into the header file were in the PDF file, and I added only the clear and menu functions that would make them smoother. After making the header file, it was not that hard to make the cpp file. Of course it took a lot of time, but I don't think it was very annoying. And I didn't use the switch function at first. Then the code of the program became complicated and an error occurred. So I got advice from my friend to use the switch, and I was able to solve these problems in a short time. Future workshops and milestones are likely to become more difficult. I should try harder to get a good score on this course.
